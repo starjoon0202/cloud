@@ -1,0 +1,1 @@
+{"service-function": [{"rest-uri": "http://192.168.0.50:5000", "name": "VM-Central", "nsh-aware": true, "sf-data-plane-locator": [{"ip": "192.168.0.50", "port": 6633, "transport": "service-locator:vxlan-gpe", "service-function-forwarder": "Central-Switch", "name": "vm-central-dpl"}], "type": "service-function-type:service-function-type:vm", "ip-mgmt-address": "192.168.0.50"}]}
